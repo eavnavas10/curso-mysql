@@ -1,0 +1,1 @@
+DELETE FROM users WHERE user_id = 11;       -- Eliminar registros, siempre es importante añadir el WHERE

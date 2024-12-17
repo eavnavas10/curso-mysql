@@ -1,0 +1,1 @@
+DROP DATABASE test;     -- Comando para eliminar una base de datos

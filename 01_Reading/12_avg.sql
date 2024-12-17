@@ -1,0 +1,1 @@
+SELECT AVG(age) FROM users;     -- Devuelve la media (average) de las edades en la tabla users

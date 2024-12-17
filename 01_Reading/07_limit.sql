@@ -1,0 +1,1 @@
+SELECT * FROM users LIMIT 3;        --Limita la cantidad de registros que va a mostrar, en este caso solo mostrará 3

@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE age BETWEEN 20 AND 30;        -- Filtra la edad entre dos números en este caso 20 y 30

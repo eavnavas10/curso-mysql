@@ -1,0 +1,1 @@
+SELECT COUNT(age) FROM users HAVING COUNT(age) > 1      --Limita o condiciona a mostrar el resultado si cumple con el having

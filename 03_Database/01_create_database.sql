@@ -1,0 +1,1 @@
+CREATE DATABASE test;       --Comando para crear una base de datos llamada test
